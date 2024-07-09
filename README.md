@@ -1,3 +1,3 @@
 # Perceptron-from-scratch
 AND model
-![working](perceptron-working.jpg)
+![working](perceptron_working.jpg)
